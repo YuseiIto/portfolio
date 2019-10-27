@@ -29,7 +29,7 @@ function Footer(){
         <ul class="icons">\
             <li><a href="https://twitter.com/ItyuJ" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>\
             <li><a href="https://facebook.com/Ityuj" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>\
-            <li><a href="https://instagram.com/yuseiito" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>\
+            <li><a href="https://instagram.com/yusei_ito" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>\
             <li><a href="https://github.com/yuseiito" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>\
             <li><a href="https://www.linkedin.com/in/yusei-ito-a01760160/" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>\
         </ul>\
