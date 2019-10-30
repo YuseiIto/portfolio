@@ -65,6 +65,7 @@ function Contact(){
                     <li><input type="submit" value="Send Message" class="primary" /></li>\
                     <li><input type="reset" value="Clear" /></li>\
                 </ul>\
+                <p>このフォームのバックエンドには、GoogleAppScriptを使用しています。</p>\
             </form>\
         </section>\
         <section class="split">\
