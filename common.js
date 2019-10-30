@@ -46,7 +46,7 @@ function Contact(){
     document.write('	<section id="contact">\
     <div class="inner">\
         <section>\
-            <form method="post" action="#">\
+            <form method="post" action="https://script.google.com/macros/s/AKfycbzyk3sxDiaEsOulsz2Py-nt_KoavzX16UFaPRfQyYE1lFPq8Yo/exec">\
                 <div class="fields">\
                     <div class="field half">\
                         <label for="name">Name</label>\
