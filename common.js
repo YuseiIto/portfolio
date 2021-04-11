@@ -73,7 +73,7 @@ function Contact(){
                 <div class="contact-method">\
                     <span class="icon solid alt fa-envelope"></span>\
                     <h3>Email</h3>\
-                    <a href="#">yuseikun@outlook.jp</a>\
+                    <a href="#">me@yuseiito.com</a>\
                 </div>\
             </section>\
             <section>\
